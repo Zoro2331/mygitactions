@@ -4,6 +4,8 @@ def hello():
 
 def bye():
     print("bye")
-print("Hello")
+
+
+print(hello())
   
   
